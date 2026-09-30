@@ -1,0 +1,6 @@
+*.o
+*.a
+*.so
+a.out
+bin/
+lab2/src/revert_string/revertprog
