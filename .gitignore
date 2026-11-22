@@ -3,4 +3,4 @@
 *.so
 a.out
 bin/
-lab2/src/revert_string/revertprog
+min_max_*.txt
